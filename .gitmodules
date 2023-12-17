@@ -1,0 +1,3 @@
+[submodule "bbtools-docker-cwl"]
+	path = bbtools-docker-cwl
+	url = https://github.com/bwbioinfo/bbtools-docker-cwl
